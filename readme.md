@@ -1,5 +1,6 @@
-记录女朋友相关的信息
+#记录女朋友相关的信息
 ---------------------------
+![示例](https://raw.github.com/hpf1908/girlfriend/master/readme.png)
 
 - 爱吃的零食
  - 冰淇淋（可爱多蛋筒）
@@ -38,6 +39,6 @@
   - 身高1.55
   - 鞋子35-36码
 
-
+node jsMindScreenShot -i ./girlfriend/readme.md -o ./girlfriend/readme.png 
 
 
