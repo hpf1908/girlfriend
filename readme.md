@@ -29,6 +29,7 @@
 - 喜欢的电影或者电视节目
   - 康熙来了
   - 血腥暴力的(杀死比尔)
+  - 小尼古拉
 
 - 其他
   - 身高1.55
@@ -45,7 +46,7 @@
   - 丈母娘生日(4.15)
 
 ---------------------------
-created by jsMindScreenShot
-node jsMindScreenShot -i ./girlfriend/readme.md -o ./girlfriend/readme.png 
+created by jsMindScreenShot  
+node jsMindScreenShot -i ./girlfriend/readme.md -o ./girlfriend/readme.png  
 
 
